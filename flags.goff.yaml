@@ -3,7 +3,7 @@ test-flag-1:
    enabled: true
    disabled: false
   targeting:
-    - query: firstname eq "Ben"
+    - query: firstname eq "Giang"
       variation: enabled
   defaultRule:
     variation: disabled
