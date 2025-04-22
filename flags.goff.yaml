@@ -2,5 +2,8 @@ test-flag-1:
   variations:
    enabled: true
    disabled: false
+  targeting:
+    - query: firstname eq "Ben"
+      variation: true
   defaultRule:
-    variation: disabled
+    variation: true
