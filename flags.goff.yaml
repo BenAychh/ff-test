@@ -4,6 +4,6 @@ test-flag-1:
    disabled: false
   targeting:
     - query: firstname eq "Ben"
-      variation: true
+      variation: enabled
   defaultRule:
-    variation: true
+    variation: disabled
