@@ -6,4 +6,4 @@ test-flag-1:
     - query: firstname eq "Giang"
       variation: enabled
   defaultRule:
-    variation: enabled
+    variation: disabled
